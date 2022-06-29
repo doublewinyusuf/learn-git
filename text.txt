@@ -1,1 +1,5 @@
-
+Resolusi Mid 2022
+ - Belajar Front-End
+ - Belajar Back-End
+ - Memahami konsep API
+ - Membuat proyek sistem informasi untuk mengelola toko

@@ -1,8 +1,7 @@
 Resolusi Mid 2022
- - Belajar Front-End
- - Belajar Back-End
+ - Belajar Full Stack Developer
  - Memahami konsep API
- - Membuat proyek sistem informasi untuk mengelola toko
+ - SDLC SI untuk Toko
 
 Resolusi Stock Market
  - Belajar Analisa Swing
